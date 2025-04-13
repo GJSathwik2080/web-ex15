@@ -1,0 +1,16 @@
+.external-button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .external-button:hover {
+    background-color: darkviolet; 
+  }
+  
